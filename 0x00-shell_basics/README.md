@@ -8,3 +8,4 @@ Delete the file betty
 Delete the directory my_first_directory that is in the /tmp directory
 A script that changes the working directory to the previous one
 A script that lists all files even ones with names beginning with a period character which are normally hidden
+Write a script that prints the type of the file named iamafile that will be in /tmp directory
